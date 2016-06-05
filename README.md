@@ -1,9 +1,10 @@
-# 这是一个网页爬虫，简单的
+# 本项目爬取国家统计局地区数据，保存到MYSQL
 
-# 版本需要
+
+# 环境
 	python2
 	urllib2
-
+	MYSQL 5.0
 
 # usage：
 	python main.py
